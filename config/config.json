@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "xawlckuo",
+    "password": "1KS8rau-KPsR986-9iuE7lICSbWEHKDF",
+    "database": "xawlckuo",
+    "host": "1lallah.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "xawlckuo",
+    "password": "1KS8rau-KPsR986-9iuE7lICSbWEHKDF",
+    "database": "xawlckuo",
+    "host": "lallah.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
